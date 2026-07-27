@@ -15,11 +15,13 @@
 
 ## 2. วาด BPMN diagram แบบ As-Is
 
+![As-Is BPMN](images/as-is.png)
 
 ---
 
 ## 3. วาด BPMN diagram แบบ To-Be
 
+![To-Be BPMN](images/to-be.jpg)
 
 ---
 
